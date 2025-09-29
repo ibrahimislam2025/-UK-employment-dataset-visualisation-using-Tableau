@@ -1,5 +1,9 @@
 # UK-employment-dataset-visualisation-using-Tableau
 # 📊 UK Employment Changes  
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-orange?logo=tableau)  
+![Excel](https://img.shields.io/badge/Excel-Data%20Processing-green?logo=microsoft-excel)  
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-blue)  
+![Visualization](https://img.shields.io/badge/Skill-Visualization-purple)  
 
 ## 🔎 Overview  
 This project analyzes **employment trends in the UK** using data imported from Excel into Tableau. The goal was to identify key shifts in employment patterns and present them through clear, interactive visualizations.  
@@ -42,3 +46,4 @@ This project analyzes **employment trends in the UK** using data imported from E
 - 📊 Tableau Dashboards  
 - 📝 Analytical Reports  
 - 📉 Data Visualizations  
+
