@@ -45,5 +45,7 @@ This project analyzes **employment trends in the UK** using data imported from E
 ## 📦 Deliverables  
 - 📊 Tableau Dashboards  
 - 📝 Analytical Reports  
-- 📉 Data Visualizations  
+- 📉 Data Visualizations
+
+[Link to my Dashboard](https://public.tableau.com/views/EMSIDataset-Ibrahim/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
